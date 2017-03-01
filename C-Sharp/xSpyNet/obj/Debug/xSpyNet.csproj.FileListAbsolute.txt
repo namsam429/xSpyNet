@@ -1,0 +1,8 @@
+E:\Tiny\Projects\C#\xSpyNet\xSpyNet\obj\Debug\xSpyNet.csproj.GenerateResource.Cache
+E:\Tiny\Projects\C#\xSpyNet\xSpyNet\obj\Debug\xSpyNet.Main.resources
+E:\Tiny\Projects\C#\xSpyNet\xSpyNet\obj\Debug\xSpyNet.Properties.Resources.resources
+E:\Tiny\Projects\C#\xSpyNet\xSpyNet\bin\Debug\mdriverchecker.exe.config
+E:\Tiny\Projects\C#\xSpyNet\xSpyNet\bin\Debug\mdriverchecker.exe
+E:\Tiny\Projects\C#\xSpyNet\xSpyNet\bin\Debug\mdriverchecker.pdb
+E:\Tiny\Projects\C#\xSpyNet\xSpyNet\obj\Debug\mdriverchecker.exe
+E:\Tiny\Projects\C#\xSpyNet\xSpyNet\obj\Debug\mdriverchecker.pdb

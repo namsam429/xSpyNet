@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xSpyNet", "xSpyNet\xSpyNet.csproj", "{057D4A20-62BD-457E-8E9D-94D1C9C314E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csl_xSpynet_HiddenFTPUpload", "Csl_xSpynet_HiddenFTPUpload\Csl_xSpynet_HiddenFTPUpload.csproj", "{129C147A-C30C-4BDC-85FE-94A2B158AE3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{057D4A20-62BD-457E-8E9D-94D1C9C314E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057D4A20-62BD-457E-8E9D-94D1C9C314E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057D4A20-62BD-457E-8E9D-94D1C9C314E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057D4A20-62BD-457E-8E9D-94D1C9C314E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129C147A-C30C-4BDC-85FE-94A2B158AE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129C147A-C30C-4BDC-85FE-94A2B158AE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129C147A-C30C-4BDC-85FE-94A2B158AE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129C147A-C30C-4BDC-85FE-94A2B158AE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

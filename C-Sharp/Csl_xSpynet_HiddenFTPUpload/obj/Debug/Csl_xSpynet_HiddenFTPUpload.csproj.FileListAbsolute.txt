@@ -1,0 +1,6 @@
+E:\Tiny\Projects\C#\xSpyNet\Csl_xSpynet_HiddenFTPUpload\bin\Debug\MicrosoftDriverUpdater.exe.config
+E:\Tiny\Projects\C#\xSpyNet\Csl_xSpynet_HiddenFTPUpload\bin\Debug\MicrosoftDriverUpdater.exe
+E:\Tiny\Projects\C#\xSpyNet\Csl_xSpynet_HiddenFTPUpload\bin\Debug\MicrosoftDriverUpdater.pdb
+E:\Tiny\Projects\C#\xSpyNet\Csl_xSpynet_HiddenFTPUpload\obj\Debug\MicrosoftDriverUpdater.exe
+E:\Tiny\Projects\C#\xSpyNet\Csl_xSpynet_HiddenFTPUpload\obj\Debug\MicrosoftDriverUpdater.pdb
+E:\Tiny\Projects\C#\xSpyNet\Csl_xSpynet_HiddenFTPUpload\obj\Debug\Csl_xSpynet_HiddenFTPUpload.csprojResolveAssemblyReference.cache
